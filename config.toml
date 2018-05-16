@@ -1,6 +1,6 @@
 # Page settings
-baseurl = "https://cleyssonlima.github.io/"
-title = "Elate theme"
+baseurl = "http://cleyssonlima.com.br/"
+title = "Cleysson Lima Soluções em Banco de Dados"
 languageCode = "en-us"
 theme = "hugo-elate-theme"
 
