@@ -1,5 +1,5 @@
 # Page settings
-baseurl = "http://cleyssonlima.com.br/"
+baseurl = "https://cleyssonlima.com.br/"
 title = "Cleysson Lima Soluções em Banco de Dados"
 languageCode = "en-us"
 theme = "hugo-elate-theme"
