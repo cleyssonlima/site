@@ -1,5 +1,5 @@
 # Page settings
-baseurl = "http://www.cleyssonlima.me"
+baseurl = "http://cleyssonlima.me/"
 title = "Elate theme"
 languageCode = "en-us"
 theme = "hugo-elate-theme"
