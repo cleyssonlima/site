@@ -1,0 +1,63 @@
+## Basic Configuration
+baseurl = "localhost:1313"
+title = "Cleysson Lima"
+languageCode = "en-us"
+contentdir = "src/content"
+datadir = "src/data"
+layoutdir = "src/layouts"
+publishdir = "dist"
+staticdir = "src/static"
+themesdir = "src/themes"
+builddrafts = false
+canonifyurls = false
+author = "Cleysson Lima"
+#theme = "goa"
+
+## Hugo Built-in Features
+#disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
+#googleAnalytics = "XYZ"
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Cleysson Lima"
+intro = "Especialista em Banco de Dados"
+description = "Louco por tecnologia e principalmente coisas que abrangem dados, possui mais de 10 anos de experiência na área de TI, hoje é DBA PostgreSQL e outros bancos de dados.    "
+authorimage = "headshot.jpg"
+dateformat = "Maio 28, 2018"
+
+## Site Meta Settings
+[params.meta]
+description = "Simple minimalist theme"
+keywords = "minimalist,cleysson,lima,blog,dba,postgresql"
+
+## Social Accounts
+[params.social]
+github = "cleyssonlima"
+instagram = "cleyssonlima"
+linkedin = "cleyssonlima"
+twitter = "cleysson_lima"
+email = "cleyssondba@gmail.com"
+
+## Extras
+[params.extra]
+copyright = "Direitos reservados © 2018 - Cleysson Lima" 
+poweredby = false
+highlightjs = false
+
+## Main Menu
+[[menu.main]]
+    name = "blog"
+    weight = 100
+    identifier = "blog"
+    url = "/blog/"
+[[menu.main]]
+    name = "about"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
+[[menu.main]]
+    name = "coderag"
+    identifier = "coderag"
+    weight = 300
+    url = "/coderag/"
