@@ -1,5 +1,5 @@
 ## Basic Configuration
-baseurl = "/"
+baseurl = "https://www.cleyssonlima.com.br/"
 title = "Cleysson Lima"
 languageCode = "en-us"
 contentdir = "src/content"
