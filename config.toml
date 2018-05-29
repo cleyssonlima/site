@@ -38,6 +38,7 @@ instagram = "cleyssonlima"
 linkedin = "cleyssonlima"
 twitter = "cleysson_lima"
 email = "cleyssondba@gmail.com"
+target = "_blank"
 
 ## Extras
 [params.extra]
