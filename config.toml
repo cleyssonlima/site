@@ -29,7 +29,7 @@ dateformat = "Maio 28, 2018"
 ## Site Meta Settings
 [params.meta]
 description = "Cleysson Lima Soluções em Banco de Dados"
-keywords = "minimalist,cleysson,lima,blog,dba,postgresql"
+keywords = "cleyssonlima,blog,dba,postgresql,sql server,oracle,mysql,banco de dados"
 
 ## Social Accounts
 [params.social]
