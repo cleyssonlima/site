@@ -34,10 +34,12 @@ keywords = "cleyssonlima,blog,dba,postgresql,sql server,oracle,mysql,banco de da
 ## Social Accounts
 [params.social]
 github = "cleyssonlima"
+target = "_blank"
 instagram = "cleyssonlima"
 linkedin = "cleyssonlima"
 twitter = "cleysson_lima"
 email = "cleysson@cleyssonlima.com.br"
+
 
 ## Extras
 [params.extra]
