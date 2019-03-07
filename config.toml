@@ -37,13 +37,13 @@ github = "cleyssonlima"
 instagram = "cleyssonlima"
 linkedin = "cleyssonlima"
 twitter = "cleysson_lima"
-email = "cleyssondba@gmail.com"
+email = "cleysson@cleyssonlima.com.br"
 
 ## Extras
 [params.extra]
-copyright = "Direitos reservados © 2018 - Cleysson Lima" 
-poweredby = false
-highlightjs = false
+copyright = "Direitos reservados © 2019 - Cleysson Lima" 
+poweredby = false 
+highlightjs = false 
 
 ## Main Menu
 [[menu.main]]
